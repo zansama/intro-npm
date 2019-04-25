@@ -1,0 +1,15 @@
+{
+  "name": "intro-npm",
+  "version": "1.0.0",
+  "description": "mon premier npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-pngquant": "^7.0.0"
+  }
+}
